@@ -124,7 +124,7 @@ button {
 }
 
 @media screen and (min-width: 1500px) {
-   section.article-section h1 {
+   section.central-container h1 {
       font-size: 1.6em
    }
 }
