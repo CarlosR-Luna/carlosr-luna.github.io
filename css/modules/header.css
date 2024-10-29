@@ -1,4 +1,10 @@
-/* Configs de reset */
+/*
+      Yes,
+      I know,
+      it's a mess :)
+*/
+
+/* Configs de reset específicas*/
 header a {
    color: white;
    text-decoration: none;
@@ -67,7 +73,7 @@ header nav.top-nav ul  li:last-child {
 }
 
 
-/* VOU CONFIAR EM deus, DEPOIS EU LEMBRO DE TESTAR ISSO, QUANDO ESTIVER NO GITHUB */
+/* - */
 @media screen and (min-width: 1900px){
    header nav.top-nav h1 {
       font-size: 2.5em;
@@ -114,5 +120,5 @@ header nav.bottom-nav span a {
 
 /*
    Tudo isso para nenhum imbecíl precisar de tanta fluidez.
-   Vão acessar uma vez num computador e olhe lá...
+   Vão acessar uma vez num computador e olhe lá... kkkkk
 */
